@@ -30,7 +30,7 @@ public class Circle extends Shape implements Movable {
         return area; //reference to  parent class variable
     }
     @Override
-    public void displayshapName() {
+    public void displayshapeName() {
         System.out.println("Drawing a Circle of radius " + this.radius);
     }
     /** Returns a self-descriptive string */

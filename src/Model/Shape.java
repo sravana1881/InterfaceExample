@@ -33,7 +33,7 @@ package Model;
             return "Shape[color=" + color + "]";
         }
 
-        public void displayshapName()
+        public void displayshapeName()
         {
             System.out.println("I am a Shape.");
         }
